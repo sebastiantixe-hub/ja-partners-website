@@ -14,18 +14,18 @@ function Stats() {
         </div>
         <div className="relative max-w-4xl mx-auto text-center px-6">
             <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-800 tracking-tight">
-                Resultados en Números
+                Results in Numbers
             </h1>
             <p className="text-gray-600 mt-4 text-base md:text-lg">
-                Impacto real y ROI medible de nuestras soluciones de IA
+                Real impact and measurable ROI from our AI solutions
             </p>
         </div>
         <div className="relative max-w-6xl mx-auto mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 px-6">
             {[
-                { value: "+27%", text: "Incremento en productividad", extra: "La automatización redujo significativamente la carga de trabajo manual." },
-                { value: "6x", text: "Procesos más rápidos", extra: "Los flujos de trabajo de IA optimizaron el tiempo operativo." },
-                { value: "#2", text: "Posicionamiento de mercado", extra: "Mejora de la ventaja competitiva en LATAM." },
-                { value: "$7.2M", text: "ROI Generado", extra: "Medido a través de múltiples clientes empresariales." }
+                { value: "+27%", text: "Increase in productivity", extra: "Automation reduced manual workload significantly." },
+                { value: "6x", text: "Faster processes", extra: "AI workflows optimized operational time." },
+                { value: "#2", text: "Market positioning", extra: "Improved competitive advantage in LATAM." },
+                { value: "$7.2M", text: "Generated ROI", extra: "Measured across multiple enterprise clients." }
             ].map((item, index) => (
                 <div
                     key={index}
@@ -46,22 +46,22 @@ function Stats() {
         </div>
         <div className="relative max-w-4xl mx-auto mt-16 text-center px-6">
             <p className="text-gray-600 text-sm md:text-base leading-relaxed">
-                Nuestras soluciones aprovechan modelos de IA avanzados y estrategias de automatización para ofrecer resultados consistentes y escalables. 
-                Estas métricas reflejan implementaciones en el mundo real en múltiples industrias, asegurando tanto la eficiencia como el crecimiento a largo plazo.
+                Our solutions leverage advanced AI models and automation strategies to deliver consistent, scalable results. 
+                These metrics reflect real-world implementations across multiple industries, ensuring both efficiency and long-term growth.
             </p>
         </div>
 
         <div className="relative max-w-6xl mx-auto mt-16 border-t border-gray-200"></div>
         <div className="relative max-w-6xl mx-auto mt-12 px-6">
             <h2 className="text-center text-2xl md:text-3xl font-semibold text-gray-800 mb-12">
-                Métricas de Rendimiento
+                Performance Metrics
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                 {[
-                    { icon: "👥", title: "Inversión de Clientes", value: "78,736", desc: "Crecimiento impulsado por la adopción empresarial." },
-                    { icon: "📊", title: "ROI Comunitario", value: "14,599", desc: "Mayores tasas de compromiso y retención." },
-                    { icon: "💰", title: "Impacto en Ingresos", value: "4.5M", desc: "Aumento directo por la integración de IA." },
-                    { icon: "📈", title: "Impuestos y Crecimiento", value: "2.7M", desc: "Escalado financiero sostenible." }
+                    { icon: "👥", title: "Client Investment", value: "78,736", desc: "Growth driven by enterprise adoption." },
+                    { icon: "📊", title: "Community ROI", value: "14,599", desc: "Higher engagement and retention rates." },
+                    { icon: "💰", title: "Revenue Impact", value: "4.5M", desc: "Direct increase from AI integration." },
+                    { icon: "📈", title: "Taxes & Growth", value: "2.7M", desc: "Sustainable financial scaling." }
                 ].map((card, index) => (
                     <div
                         key={index}
@@ -89,12 +89,12 @@ function Stats() {
         </div>
         <div className="relative max-w-3xl mx-auto mt-16 text-center px-6">
             <p className="text-gray-700 text-base">
-                ¿Quieres lograr resultados similares?
+                Want to achieve similar results?
             </p>
             <button className="mt-4 px-6 py-3 bg-blue-600 text-white rounded-lg 
                 hover:bg-blue-700 transition duration-300">
                 <a href="#form-section">
-                            Empezar ahora
+                            Get Started
                         </a>
             </button>
             </div>

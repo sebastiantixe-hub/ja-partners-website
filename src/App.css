@@ -31,7 +31,7 @@ body {
         label{
             color: var(--color-3);
         }
-        input,textarea{
+        input,textarea,select{
             background-color: #232532;
             border: 2px solid #4b5563;
             color: var(--color-3);
@@ -39,6 +39,25 @@ body {
         .btn-submit{
             background-color: var(--color-2);
         }
+    }
+}
+
+.schedule-section{
+    background-color: var(--color-5);
+    .schedule-option{
+        background-color: var(--color-6);
+        border: 2px solid #4b5563;
+    }
+    .schedule-cta-primary{
+        background-color: var(--color-2);
+        color: var(--color-1);
+    }
+    .schedule-cta-secondary{
+        border-color: var(--color-2);
+        color: var(--color-2);
+    }
+    .calendly-embed{
+        background-color: var(--color-6);
     }
 }
 

@@ -3,13 +3,13 @@ import { Link } from "../components/Link"
 import logo from '../assets/images/logo.png';
 
 const navLinks = [
-    { name: 'Inicio', href: '#' },
-    { name: 'Por qué', href: '#why-section' },
-    { name: 'Quiénes somos', href: '#who-section' },
-    { name: 'Nosotros', href: '#about-section' },
-    { name: 'Servicios', href: '#services-section' },
-    { name: 'Testimonios', href: '#testimonials-section' },
-    { name: 'Contacto', href: '#form-section' },
+    { name: 'Home', href: '#' },
+    { name: 'Why', href: '#why-section' },
+    { name: 'Who', href: '#who-section' },
+    { name: 'About', href: '#about-section' },
+    { name: 'Services', href: '#services-section' },
+    { name: 'Contact', href: '#form-section' },
+    { name: 'Agenda', href: '#agenda-section' },
     
 ];
 

@@ -21,16 +21,16 @@ function About() {
         </div>
         <div className="relative max-w-7xl mx-auto px-6 text-center">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-800">
-                Sobre JA Partners
+                About JA Partners
             </h1>
             <p className="text-gray-600 mt-4 text-lg max-w-2xl mx-auto">
-                Construyendo soluciones reales con Inteligencia Artificial
+                Building real solutions with Artificial Intelligence
             </p>
         </div>
         <div className="relative max-w-7xl mx-auto mt-20 px-6 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             <div className="lg:col-span-7">
                 <h2 className="text-3xl font-semibold text-gray-800 mb-6">
-                    Sobre la Empresa
+                    About the Company
                 </h2>
 
                 <p className="text-gray-600 text-base leading-relaxed">
@@ -56,14 +56,14 @@ function About() {
                         Aaron Sosa
                     </p>
                     <p className="text-gray-600 text-sm">
-                        Founder & Ingeniero de Software
+                        Founder & Software Engineer
                     </p>
                 </div>
             </div>
         </div>
         <div className="relative max-w-7xl mx-auto mt-24 px-6">
             <h2 className="text-3xl font-semibold text-gray-800 mb-6 text-center">
-                Nuestra Historia
+                Our Story
             </h2>
 
             <div className="max-w-4xl mx-auto text-center">
@@ -78,7 +78,7 @@ function About() {
         </div>
         <div className="relative max-w-7xl mx-auto mt-24 px-6">
             <h2 className="text-3xl font-semibold text-gray-800 mb-6 text-center">
-                Nuestro Enfoque
+                Our Approach
             </h2>
 
             <p className="text-gray-600 text-base leading-relaxed max-w-4xl mx-auto text-center">
@@ -90,7 +90,7 @@ function About() {
             
             <div className="bg-white border border-gray-200 rounded-xl p-8 hover:shadow-xl transition">
                 <h3 className="text-2xl font-semibold text-gray-800 mb-4">
-                    🚀 Misión
+                    🚀 Mission
                 </h3>
                 <p className="text-gray-600 text-base">
                     Diseñar e implementar herramientas digitales que resuelvan problemas concretos mediante el uso estratégico del software y la Inteligencia Artificial.
@@ -99,7 +99,7 @@ function About() {
 
             <div className="bg-white border border-gray-200 rounded-xl p-8 hover:shadow-xl transition">
                 <h3 className="text-2xl font-semibold text-gray-800 mb-4">
-                    🌎 Visión
+                    🌎 Vision
                 </h3>
                 <p className="text-gray-600 text-base">
                     Convertirse en un referente en el desarrollo de soluciones tecnológicas innovadoras con impacto real.
@@ -109,7 +109,7 @@ function About() {
         </div>
         <div className="relative max-w-7xl mx-auto mt-20 text-center px-6">
             <p className="text-gray-700 text-lg">
-                Construyamos algo impactante juntos
+                Let’s build something impactful together
             </p>
 
             <a href="#form-section">
@@ -117,7 +117,7 @@ function About() {
                     transition duration-300 hover:scale-105 hover:shadow-lg"
                     style={{ backgroundColor: "var(--color-2)" }}
                 >
-                    Empezar ahora
+                    Get Started
                 </button>
             </a>
         </div>

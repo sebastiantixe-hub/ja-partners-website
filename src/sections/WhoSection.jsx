@@ -11,37 +11,37 @@ function WhoSection(){
     return(
         <div id="who-section" className="bg-blue-200 py-10 border-b-2 border-gray-600">
             <h3 className="text-gray-700 mb-14 text-center text-2xl sm:text-3xl lg:text-4xl font-bold">
-                Con quiénes trabajamos
+                Who we work with
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mx-20">
                 <CardWork 
-                    title="Empresas en crecimiento"
-                    desc="Negocios que enfrentan ineficiencias operativas y buscan escalar a través de soluciones digitales estructuradas."
+                    title="Growing companies"
+                    desc="Businesses facing operational inefficiencies and looking to scale through structured digital solutions."
                     img={ai}
                 />
                 <CardWork 
-                    title="Socios Corporativos"
-                    desc="Colaboramos con empresas líderes para crear proyectos de gran impacto."
+                    title="Company Partners"
+                    desc="We collaborate with leading companies to create impactful projects."
                     img={company}
                 />
                 <CardWork 
-                    title="Laboratorios de Innovación"
-                    desc="Nuestros laboratorios de innovación fomentan la creatividad y el avance tecnológico."
+                    title="Innovation Labs"
+                    desc="Our innovation labs foster creativity and technological advancement."
                     img={innovation}
                 />
                 <CardWork 
-                    title="Mercados de LATAM"
-                    desc="Adaptamos nuestras soluciones para satisfacer las necesidades únicas de los mercados latinoamericanos."
+                    title="LATAM Markets"
+                    desc="We tailor our solutions to meet the unique needs of LATAM markets."
                     img={latam}
                 />
                 <CardWork 
-                    title="Equipo de Liderazgo"
-                    desc="Nuestro equipo de liderazgo nos guía hacia nuestra visión y objetivos."
+                    title="Leadership Team"
+                    desc="Our leadership team guides us toward our vision and goals."
                     img={leader}
                 />
                 <CardWork 
-                    title="Equipo Diverso"
-                    desc="Reunimos a un equipo diverso de expertos para abordar desafíos complejos."
+                    title="Diverse Team"
+                    desc="We bring together a diverse team of experts to tackle complex challenges."
                     img={team}
                 />
             </div>

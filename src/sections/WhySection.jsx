@@ -5,41 +5,41 @@ function WhySection() {
     return(
         <section id="why-section" className="flex flex-col items-center justify-center text-center px-4 sm:px-6 lg:px-16 py-12 sm:py-16 lg:py-20 bg-blue-100 border-b-2 border-gray-600">
 
-            <h1 className="text-3xl sm:text-4xl lg:text-7xl mb-6 font-bold sm:mb-8 leading-tight text-gray-700">Un sistema diseñado para <br />
-                convertir la atención en crecimiento
+            <h1 className="text-3xl sm:text-4xl lg:text-7xl mb-6 font-bold sm:mb-8 leading-tight text-gray-700">A system designed to <br />
+                turn attention into growth
             </h1>
             <br />
             <br />
 
             <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-10 w-full">
                 <CardTrafic
-                    title="Atraer las oportunidades adecuadas"
-                    desc="Identificamos y llegamos a prospectos de alto valor a través de canales digitales específicos, asegurando que su negocio conecte con la audiencia correcta en el momento oportuno."
+                    title="Attract the right opportunities"
+                    desc="We identify and reach high-value prospects through targeted digital channels, ensuring your business connects with the right audience at the right time."
                     index="1"
                 />
                 <CardTrafic
-                    title="Generar confianza al instante"
-                    desc="Creamos una propuesta de valor clara y convincente que comunica credibilidad, experiencia y diferenciación desde la primera interacción."
+                    title="Build trust instantly"
+                    desc="We craft a clear and compelling value proposition that communicates credibility, expertise and differentiation from the very first interaction."
                     index="2"
                 />
                 <CardTrafic
-                    title="Capturar la demanda real"
-                    desc="A través de viajes de usuario optimizados y formularios inteligentes, transformamos el interés en clientes potenciales procesables minimizando la fricción."
+                    title="Capture real demand"
+                    desc="Through optimized user journeys and intelligent forms, we transform interest into actionable leads while minimizing friction."
                     index="3"
                 />
                 <CardTrafic
-                    title="Filtrar lo que importa"
-                    desc="Evaluamos cada lead basándonos en criterios clave como necesidades comerciales, urgencia, presupuesto y preparación tecnológica para priorizar las oportunidades de alto impacto."
+                    title="Filter what matters"
+                    desc="We evaluate each lead based on key criteria such as business needs, urgency, budget and technological readiness to prioritize high-impact opportunities."
                     index="4"
                 />
                 <CardTrafic
-                    title="Convertir en reuniones"
-                    desc="Los prospectos calificados son guiados sin problemas para programar reuniones, asegurando que cada interacción tenga contexto y relevancia comercial."
+                    title="Convert into meetings"
+                    desc="Qualified prospects are seamlessly guided into scheduling meetings, ensuring every interaction has context and business relevance."
                     index="5"
                 />
                 <CardTrafic
-                    title="Escalar el crecimiento a largo plazo"
-                    desc="Implementamos seguimientos continuos, automatización y seguimiento del rendimiento para generar un crecimiento sostenible y asociaciones a largo plazo."
+                    title="Scale long-term growth"
+                    desc="We implement continuous follow-ups, automation and performance tracking to generate sustainable growth and long-term partnerships."
                     index="6"
                 />
                 

@@ -6,30 +6,30 @@ function Hero() {
  
             <div className="eslogan v-stack justify-center items-center lg:items-start lg:flex-1 text-center lg:text-left text-gray-700" role="region" aria-labelledby="hero-title">
                 <h1 className="text-3xl sm:text-4xl lg:text-7xl font-bold mb-6 sm:mb-8 leading-tight" aria-label="title">
-                    Soluciones de IA para la 
+                    AI Solutions for 
                     <br />
                     <strong className="text-blue-900">
-                        Investigación y 
+                        Research and 
                         <br />
-                        Automatización de 
+                        Business
                         <br />
-                        Negocios
+                        Automation
                     </strong>
                 </h1>
                 
                 <p className="description text-sm sm:text-base lg:text-xl mb-8 sm:mb-12 lg:mb-14 leading-relaxed max-w-2xl text-gray-700" aria-label="description">
-                    Potencia tu empresa con flujos de trabajo de agentes inteligentes y software personalizado diseñado para la próxima generación de excelencia operativa.
+                    Empower your enterprise with intelligent agent workflows and custom software engineered for the next generation of operational excellence.
                 </p>
                 
                 <div className="cont-btn v-stack sm:h-stack justify-center lg:justify-start gap-3 sm:gap-4 lg:gap-6 w-full sm:w-auto" role="group" aria-label="Botones de acción principal">
                     <button className="btn-form px-4 sm:px-5 lg:px-6 py-3 sm:py-4 lg:py-5 rounded-lg sm:rounded-xl text-sm sm:text-base lg:text-lg font-bold cursor-pointer hover:opacity-90 transition whitespace-nowrap bg-sky-950  text-gray-100">
                         <a href="#form-section">
-                            Empezar ahora
+                            Get Started
                         </a>
                     </button>
                     <button className="bg-transparent text-sm sm:text-base lg:text-lg cursor-pointer border border-gray-300 px-4 sm:px-5 lg:px-6 py-3 sm:py-4 lg:py-5 rounded-lg sm:rounded-xl">
                         <a href="#services-section" className="no-underline">
-                            Explorar Servicios ↓
+                            Explore Services ↓
                         </a>
                     </button>
                 </div>
